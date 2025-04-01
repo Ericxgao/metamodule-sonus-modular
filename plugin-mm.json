@@ -1,7 +1,120 @@
 {
-    "MetaModulePluginMaintainer": "My Name",
-    "MetaModulePluginMaintainerEmail": "",
-    "MetaModulePluginMaintainerUrl": "",
-    "MetaModuleDescription": "",
-    "MetaModuleIncludedModules": []
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-sonus-modular",
+    "MetaModuleDescription": "Sonus Modular ported for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Addiction",
+            "name": "Addiction"
+        },
+        {
+            "slug": "Bitter",
+            "name": "Bitter"
+        },
+        {
+            "slug": "Bymidside",
+            "name": "Bymidside"
+        },
+        {
+            "slug": "Campione",
+            "name": "Campione"
+        },
+        {
+            "slug": "Chainsaw",
+            "name": "Chainsaw"
+        },
+        {
+            "slug": "Ctrl",
+            "name": "Ctrl"
+        },
+        {
+            "slug": "Deathcrush",
+            "name": "Deathcrush"
+        },
+        {
+            "slug": "Fluidmix",
+            "name": "Fluidmix"
+        },
+        {
+            "slug": "Fraction",
+            "name": "Fraction"
+        },
+        {
+            "slug": "Harmony",
+            "name": "Harmony"
+        },
+        {
+            "slug": "Ladrone",
+            "name": "Ladrone"
+        },
+        {
+            "slug": "Luppolo",
+            "name": "Luppolo"
+        },
+        {
+            "slug": "Luppolo3",
+            "name": "Luppolo3"
+        },
+        {
+            "slug": "Micromacro",
+            "name": "Micromacro"
+        },
+        {
+            "slug": "Mrcheb",
+            "name": "Mr. Cheb"
+        },
+        {
+            "slug": "Multimulti",
+            "name": "Multimulti"
+        },
+        {
+            "slug": "Neurosc",
+            "name": "Neurosc"
+        },
+        {
+            "slug": "Oktagon",
+            "name": "Oktagon"
+        },
+        {
+            "slug": "Osculum",
+            "name": "Osculum"
+        },
+        {
+            "slug": "Paramath",
+            "name": "Paramath"
+        },
+        {
+            "slug": "Piconoise",
+            "name": "Piconoise"
+        },
+        {
+            "slug": "PanintheHaas",
+            "name": "Pan in the Haas"
+        },
+        {
+            "slug": "Pusher",
+            "name": "Pusher"
+        },
+        {
+            "slug": "Ringo",
+            "name": "Ringo"
+        },
+        {
+            "slug": "Scramblase",
+            "name": "Scramblase"
+        },
+        {
+            "slug": "Tropicana",
+            "name": "Tropicana"
+        },
+        {
+            "slug": "Twoff",
+            "name": "Twoff"
+        },
+        {
+            "slug": "Yabp",
+            "name": "Yabp"
+        }
+    ]
 }
