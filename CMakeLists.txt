@@ -88,6 +88,6 @@ create_plugin(
     SOURCE_LIB      SonusModular
     PLUGIN_NAME     SonusModular
     PLUGIN_JSON     ${SOURCE_DIR}/plugin.json
-    SOURCE_ASSETS   ${CMAKE_CURRENT_SOURCE_DIR}/assets
+    SOURCE_ASSETS   ${CMAKE_CURRENT_LIST_DIR}/assets
     DESTINATION     ${CMAKE_CURRENT_LIST_DIR}/metamodule-plugins
 ) 
